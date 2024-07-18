@@ -1,4 +1,4 @@
-### Adding JavaScript to TamperMonkey / ViolentMonkey using Selenium in Python
+# Adding JavaScript to TamperMonkey / ViolentMonkey using Selenium in Python
 
 Automating tasks in web browsers can significantly improve productivity and efficiency. One powerful way to achieve this is by using TamperMonkey or ViolentMonkey to inject custom JavaScript into web pages. In this article, we will walk through a detailed process of automating this task using Selenium in Python. By the end of this guide, you will be able to load a JavaScript file into TamperMonkey or ViolentMonkey using Selenium, making your automation scripts even more powerful.
 
